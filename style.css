@@ -5,6 +5,10 @@ h1 {
   color: red;
   
 }
+h3 {
+  font-size: 2rem;
+  color: green;
+}
 
 ul {
   font-size: 1rem;
