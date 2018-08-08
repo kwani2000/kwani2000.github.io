@@ -3,13 +3,12 @@ h1 {
   
   font-size: 2rem;
   color: red;
-  
+  h2 {
+    color: yellow;
+  }
 }
 h3 {
   font-size: 2rem;
   color: green;
 }
 
-#footer{
-  font-size: .75rem;
-}
